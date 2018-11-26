@@ -1,0 +1,6 @@
+2018-11-26 23:58:49.337 [main] INFO  dataDrivenFramework.LoginPage - Username field entered
+2018-11-26 23:58:49.438 [main] INFO  dataDrivenFramework.LoginPage - Password field entered
+2018-11-26 23:58:52.501 [main] INFO  base.BaseFile - Waiting Time Added
+2018-11-26 23:58:52.599 [main] INFO  dataDrivenFramework.LoginPage - Submit Button Clicked
+2018-11-26 23:58:55.604 [main] INFO  base.BaseFile - Waiting Time Added
+2018-11-26 23:58:55.604 [main] INFO  base.BaseFile - Current Date Time Captured

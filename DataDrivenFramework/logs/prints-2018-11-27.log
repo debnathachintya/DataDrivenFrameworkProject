@@ -1,0 +1,7 @@
+2018-11-27 00:13:23.002 [main] INFO  base.BaseFile - Properties File Loaded
+2018-11-27 00:13:26.216 [main] INFO  base.BaseFile - Chrome Driver Initialized
+2018-11-27 00:13:26.230 [main] INFO  base.BaseFile - Implicit wait time added
+2018-11-27 00:13:27.385 [main] INFO  base.BaseFile - Browser Window Maximized
+2018-11-27 00:13:27.624 [main] INFO  dataDrivenFramework.BaseTest - Navigated to the given URL
+2018-11-27 00:13:30.625 [main] INFO  base.BaseFile - Waiting Time Added
+2018-11-27 00:13:31.070 [main] INFO  dataDrivenFramework.LoginPage - Workbook Loaded

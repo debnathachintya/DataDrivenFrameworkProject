@@ -1,0 +1,7 @@
+2018-11-27 00:13:31.223 [main] INFO  dataDrivenFramework.LoginPage - Username field entered
+2018-11-27 00:13:31.320 [main] INFO  dataDrivenFramework.LoginPage - Password field entered
+2018-11-27 00:13:34.380 [main] INFO  base.BaseFile - Waiting Time Added
+2018-11-27 00:13:34.380 [main] INFO  base.BaseFile - Current Date Time Captured
+2018-11-27 00:13:34.786 [main] INFO  base.BaseFile - Screenshot Captured
+2018-11-27 00:13:34.854 [main] INFO  dataDrivenFramework.BaseTest - Browser closed
+2018-11-27 00:13:34.855 [main] INFO  dataDrivenFramework.BaseTest - Test Passed
